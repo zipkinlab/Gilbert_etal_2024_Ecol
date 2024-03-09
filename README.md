@@ -2,7 +2,7 @@
 
 ### Ecology
 
-### [Neil A. Gilbert](https://gilbertecology.com), [Bruna R. Amaral](https://scholar.google.com/citations?user=iJAjVTQAAAAJ), [Olivia M. Smith](https://smithagroecology.wixsite.com/oliviasmith), [Peter J. Williams](https://scholar.google.com/citations?user=WbtvB8oAAAAJ), Sydney Ceyzyk, [Samuel Ayebare](https://scholar.google.com/citations?user=520344UAAAAJ), [Kayla L. Davis](https://davisk93.github.io/), [Jeffrey W. Doser](https://www.jeffdoser.com/), [Elise F. Zipkin](https://zipkinlab.org/)
+### [Neil A. Gilbert](https://gilbertecology.com), [Bruna R. Amaral](https://scholar.google.com/citations?user=iJAjVTQAAAAJ), [Olivia M. Smith](https://smithagroecology.wixsite.com/oliviasmith), [Peter J. Williams](https://scholar.google.com/citations?user=WbtvB8oAAAAJ), Sydney Ceyzyk, [Samuel Ayebare](https://scholar.google.com/citations?user=520344UAAAAJ), [Kayla L. Davis](https://davisk93.github.io/), [Wendy Leuenberger](https://scholar.google.com/citations?user=_hs9UJ0AAAAJ&hl=en), [Jeffrey W. Doser](https://www.jeffdoser.com/), [Elise F. Zipkin](https://zipkinlab.org/)
 
 ### Data/code DOI: [![DOI](https://zenodo.org/badge/704605842.svg)](https://zenodo.org/doi/10.5281/zenodo.10611822)
 
