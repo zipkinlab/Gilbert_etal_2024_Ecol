@@ -47,4 +47,4 @@ As data and computing power have proliferated in recent decades, statistical mod
 * [figure_02.png](./figures/figure_02.png) Figure 2: breakdown of the categories of the highly-cited statistical ecology papers
 * [figure_03.pptx](./figures/figure_03.pptx) Figure 3: timeline of the showcased papers
 
-### [Published PDF]([./Ecology - 2024 - Gilbert - A century of statistical Ecology.pdf](https://github.com/zipkinlab/Gilbert_etal_2024_Ecol/blob/main/Ecology%20-%202024%20-%20Gilbert%20-%20A%20century%20of%20statistical%20Ecology.pdf))
+### [Published PDF](https://github.com/zipkinlab/Gilbert_etal_2024_Ecol/blob/main/Ecology%20-%202024%20-%20Gilbert%20-%20A%20century%20of%20statistical%20Ecology.pdf)
